@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosfiq22&label=Profile%20views&color=0e75b6&style=flat" alt="mosfiq22" /> </p>
 
-- 🔭 I’m currently working on [C#_UWP_Project](https://github.com/MOSFIQ22/CS_Project.git)
+- 🔭 I’m currently working on **My Programming path**
 
 - 🌱 I’m currently learning **MS SQL Server_2016, Programming with C#, OOSAD with UML, Programming in HTML5 with Java Script&CSS3, XML&Reporting, Wep Application Development with ASP.Net web form, Dovoloping ASP.Net MVC5 and Core web Application, And also Developing Web APIs Windows Azure and Web Service....**
 
-- 🔭 I’m currently working on [SQL_Project](https://github.com/MOSFIQ22/SQL_Project.git)
+- 👨‍💻 All of my projects are available at [https://github.com/MOSFIQ22](https://github.com/MOSFIQ22)
 
 - 💬 Ask me about **You Can Ask me Abount SQL Server , C#, UML, JavaScript, CSS3, HTMl,XML&Reporting, ASP.NET web form,ASP.NET MVC5 core web Apllication, AngularJSandSingnalR, Windows Azure and how to give Web Service....**
 
