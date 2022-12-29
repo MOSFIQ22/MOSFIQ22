@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My Programming path**
 
-- 🌱 I’m currently learning **MSSQL Server_2016, Programming with C#, OOSAD with UML, Programming in HTML5 with Java Script&CSS3, XML&Reporting, Wep Application Development with ASP.Net web form, Developing ASP.Net MVC5 and Core web Application, And also Developing Web API, Angular, SignalR ,Microsoft Balzor and Angular MUI....**
+- 🌱 I’m currently learning **MSSQL Server_2016, Programming with C#, OOSAD with UML, Programming in HTML5 with Java Script&CSS3, XML&Reporting, Wep Application Development with ASP.Net web form, Developing ASP.Net MVC5 and Core web Application, And also Developing Web API, Angular, SignalR ,Microsoft Balzor and Angular MAUI....**
 
 - 🤝 All of my projects are available at [https://github.com/MOSFIQ22](https://github.com/MOSFIQ22)
 
