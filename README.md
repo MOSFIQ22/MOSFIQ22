@@ -5,11 +5,11 @@
 
 - 🔭 I am currently working as an Assistant Software Programmer at Computer Network System Limited(CNS).
 
-- 🌱 I’m currently learning **MSSQL Server_2022, Programming C# (.NET), Reporting(Jasper,Crystal,RDLC), Wep Application Development with ASP.Net web form, Developing ASP.Net MVC5 and Core web Application, And also Developing Web API, Angular, SignalR ,Microsoft Balzor...**
+- 🌱 I’m currently learning **MSSQL Server(efficient), Programming C# (.NET), Reporting(Jasper(efficient),Crystal,RDLC), Wep Application Development with ASP.Net web form, Developing ASP.Net MVC5 and Core web Application, And also Developing Web API, Angular, SignalR ,Microsoft Balzor...**
 
 - 🤝 All of my projects are available at [https://github.com/MOSFIQ22](https://github.com/MOSFIQ22)
 
-- 💬 You Can Ask me About SQL Server ,Programming C# (.NET), Reporting(Jasper,Crystal,RDLC), Wep Application Development with ASP.Net web form, Developing ASP.Net MVC5 and Core web Application, And also Developing Web API, Angular, SignalR ,Microsoft Balzor.... how to give comfortable Service for clients....**
+- 💬 You Can Ask me About SQL Server ,Programming C# (.NET), Reporting(Jasper(efficient),Crystal,RDLC), Wep Application Development with ASP.Net web form, Developing ASP.Net MVC5 and Core web Application, And also Developing Web API, Angular, SignalR ,Microsoft Balzor.... how to give comfortable Service for clients....**
 
 - 📫 How to reach me **mosfiqurrahman14@gmail.com**
 
