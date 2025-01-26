@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosfiq22&label=Profile%20views&color=0e75b6&style=flat" alt="mosfiq22" /> </p>
 
-- 🔭 I’m currently working on **My Programming path**
+- 🔭 I am currently working as an Assistant Software Programmer at Computer Network System Limited(CNS).
 
-- 🌱 I’m currently learning **MSSQL Server_2022, Programming with C#, OOSAD with UML, Programming in HTML5 with Java Script&CSS3, XML&Reporting, Wep Application Development with ASP.Net web form, Developing ASP.Net MVC5 and Core web Application, And also Developing Web API, Angular, SignalR ,Microsoft Balzor and Angular MAUI....**
+- 🌱 I’m currently learning **MSSQL Server_2022, Programming C# (.NET), Reporting(Jasper,Crystal,RDLC), Wep Application Development with ASP.Net web form, Developing ASP.Net MVC5 and Core web Application, And also Developing Web API, Angular, SignalR ,Microsoft Balzor...**
 
 - 🤝 All of my projects are available at [https://github.com/MOSFIQ22](https://github.com/MOSFIQ22)
 
-- 💬 You Can Ask me About SQL Server , Programming with C#, OOSAD with UML, Programming in HTML5 with Java Script&CSS3, XML&Reporting, Wep Application Development with ASP.Net web form, Developing ASP.Net MVC5 and Core web Application, And also Developing Web API, Angular, SignalR ,Microsoft Balzor and Angular MAUI... how to give comfortable Service for clients....**
+- 💬 You Can Ask me About SQL Server ,Programming C# (.NET), Reporting(Jasper,Crystal,RDLC), Wep Application Development with ASP.Net web form, Developing ASP.Net MVC5 and Core web Application, And also Developing Web API, Angular, SignalR ,Microsoft Balzor.... how to give comfortable Service for clients....**
 
 - 📫 How to reach me **mosfiqurrahman14@gmail.com**
 
