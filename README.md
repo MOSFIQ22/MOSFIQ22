@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MOSFIQURE RAHMAN</h1>
-<h3 align="center">Enterprise Systems Analysis and Designer-C# & .NET Developer</h3>
+<h3 align="center">Enterprise Systems Analysis and Designer-C#(.NET) Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosfiq22&label=Profile%20views&color=0e75b6&style=flat" alt="mosfiq22" /> </p>
 
-- 🔭 I am currently working as an Assistant Software Programmer at Computer Network System Limited(CNS).
+- 🔭 I am currently working as an Assistant Software Programmer at Computer Network System Limited(CNS), One of the top-ranked companies in our country.
 
 - 🌱 I’m currently learning **MSSQL Server(efficient), Programming C# (.NET), Reporting(Jasper(efficient),Crystal,RDLC), Wep Application Development with ASP.Net web form, Developing ASP.Net MVC5 and Core web Application, And also Developing Web API, Angular, SignalR ,Microsoft Balzor...**
 
